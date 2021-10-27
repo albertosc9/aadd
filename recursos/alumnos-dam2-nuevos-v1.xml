@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+	<alumnos>
+		<alumno nia="171">
+			<nombre>Julia</nombre>
+			<apellido1>Sanz</apellido1>
+			<apellido2>Martín</apellido2>
+		</alumno>
+		<alumno nia="318">
+			<nombre>Francisco</nombre>
+			<apellido1>Domínguez</apellido1>
+			<apellido2>Sánchez</apellido2>
+		</alumno>
+		<alumno nia="619">
+			<nombre>Valery</nombre>
+			<apellido1>Martín</apellido1>
+			<apellido2 />
+		</alumno>
+	</alumnos>
+</xml>

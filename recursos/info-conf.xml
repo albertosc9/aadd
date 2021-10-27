@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rutas>
+	<ruta>
+	C://DAM2/AccesoDatos/Ficheros/00-tmp/texto-asc
+	</ruta>
+	<ruta>C://DAM2/AccesoDatos/Ficheros/00-tmp/XML-asc</ruta>
+	<ruta>C://DAM2/AccesoDatos/Ficheros/TEXTO/backup</ruta>
+	<ruta4>C://DAM2/AccesoDatos/Ficheros/TEXTO/info/alumnos</ruta4>
+	<ruta5>C://DAM2/AccesoDatos/Ficheros/TEXTO/procesados</ruta5>
+	<ruta6>C://DAM2/AccesoDatos/Ficheros/XML/backup</ruta6>
+	<ruta7>C://DAM2/AccesoDatos/Ficheros/XML/info/alumnos</ruta7>
+	<ruta8>C://DAM2/AccesoDatos/Ficheros/XML/procesados</ruta8>
+</rutas>
